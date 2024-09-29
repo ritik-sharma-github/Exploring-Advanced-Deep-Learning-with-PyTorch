@@ -20,9 +20,6 @@ Welcome to the **Advanced Deep Learning with PyTorch** repository! This reposito
 ## Introduction
 
 This repository is a culmination of my learning and hands-on practice with PyTorch, one of the most powerful and popular frameworks for building deep learning models. The repository follows a structured path, beginning with basic tensor operations, and gradually moving towards more complex models and advanced techniques.
-
-By the end of this journey, you will find fully implemented deep learning projects, including convolutional neural networks, GANs, and transfer learning models. The projects cover real-world datasets and demonstrate best practices for building, training, and evaluating deep learning models.
-
 ## Project Structure
 
 ```bash
