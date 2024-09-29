@@ -9,18 +9,13 @@ Welcome to the **Advanced Deep Learning with PyTorch** repository! This reposito
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Projects Overview](#projects-overview)
   - [1. PyTorch Basics: Tensors and Gradient Descent](#1-pytorch-basics-tensors-and-gradient-descent)
   - [2. Logistic Regression and Image Classification](#2-logistic-regression-and-image-classification)
-  - [3. Deep Neural Networks and GPU Training](#3-deep-neural-networks-and-gpu-training)
+  - [3. Deep Neural Networks](#3-deep-neural-networks)
   - [4. Convolutional Neural Networks (CNNs)](#4-convolutional-neural-networks-cnns)
   - [5. Data Augmentation and ResNet](#5-data-augmentation-and-resnet)
   - [6. Generative Adversarial Networks (GANs) and Transfer Learning](#6-generative-adversarial-networks-gans-and-transfer-learning)
-  - [7. Final Project: Training a Deep Learning Model from Scratch](#7-final-project-training-a-deep-learning-model-from-scratch)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
 
 ## Introduction
 
